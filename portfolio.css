@@ -1,6 +1,4 @@
-*{
-  background-color: rgb(87, 10, 87);
-  color: white;
+
 }
 .upper{
      width:100vw;
@@ -11,6 +9,7 @@
      position:fixed;
       top:0;
       box-shadow: 0 0 10px;
+  background-color: #f1e175;
     }
     .me{
     border-radius: 10px;
@@ -69,7 +68,7 @@ a{
     height: 100vh;
     display: flex;
     justify-content: space-around;
-    background-color:  rgb(87, 10, 87);
+   
     
     
 }
