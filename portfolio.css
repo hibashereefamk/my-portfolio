@@ -1,4 +1,5 @@
 
+
 .upper{
      width:100vw;
     margin-top: 0 px;
@@ -8,7 +9,7 @@
      position:fixed;
       top:0;
       box-shadow: 0 0 10px;
-     background-color: #f1e175;
+      background-color: #f1e175;
     }
     .me{
     border-radius: 10px;
@@ -67,7 +68,7 @@ a{
     height: 100vh;
     display: flex;
     justify-content: space-around;
-   
+    background-color:  rgb(231, 243, 243);
     
     
 }
